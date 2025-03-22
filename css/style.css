@@ -151,7 +151,7 @@ textarea:focus{
   gap: 5rem;
 
  }
- @media (max-width: 380px){
+ @media (max-width: 375px){
    
    .form-container .input-container:nth-child(1){
      flex-direction: column;
